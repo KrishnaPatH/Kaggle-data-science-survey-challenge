@@ -1,5 +1,5 @@
 # Kaggle-data-science-survey-challenge
-To perform exploratory data analysis of the data science survey data
+The goal of the exercise is to perform exploratory data analysis of the data science survey data extracted from Kaggle.
 The objectives of this notebook is to explore the survey data to understand (1) the nature of women’s representation in Data Science and Machine Learning and (2) the effects of education on income level. 
 
 The following tasks are completed:
